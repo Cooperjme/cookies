@@ -94,10 +94,7 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_sugr | This cookie is used to make a probabilistic match of a user's identity. | 90 Days
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | U | This cookie is used as a browser identifier. | 3 months
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | BizographicsOptOutBizographicsOptOut | This cookie is used to determine opt-out status for non-members. | 10 years
-[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_giant | This cookie is used for conversion tracking. | 7 Days | https://www.linkedin.com/legal/privacy-policy
-[Quantcast](https://www.quantcast.com/privacy/) | cref | This cookie is used for Market and Audience Segmentation and Targeted advertising services. | 13 months
-[Quantcast](https://www.quantcast.com/privacy/) | d | This cookie is used for Market and Audience Segmentation and Targeted advertising services. | 3 months
-[Quantcast](https://www.quantcast.com/privacy/) | mc | This cookie is used to track anonymous information about how website visitors use the site. | 13 months
+[LinkedIn) | mc | This cookie is used to track anonymous information about how website visitors use the site. | 13 months
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | A3 | This cookie is used for search and advertising. | One year	
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | b | This cookie collects anonymous data related to the visitor's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorize the users' interest and demographical profiles with the purpose of customizing the website content depending on the visitor. | One year
 
